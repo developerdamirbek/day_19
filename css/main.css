@@ -363,6 +363,11 @@ nav {
     margin-top: 2px;
 }
 
+.footer_links{
+    display: flex;
+    gap: 60px;
+}
+
 .footer_title1::after {
     content: '';
     width: 90px;
