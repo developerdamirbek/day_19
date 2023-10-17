@@ -59,11 +59,15 @@ nav {
 }
 
 .hero {
-    padding-top: 90px;
     padding-bottom: 210px;
+    background-repeat: no-repeat;
+    background: linear-gradient(180deg, #4a9ad354 -27.33%, rgba(74, 153, 211, 0.00) 75.91%), #FFF;
+    box-shadow: 0px 4px 16px 0px rgba(75, 0, 129, 0.26);
+    margin-bottom: 146px;
 }
 
 .showcase {
+    padding-top: 80px;
     display: flex;
     align-items: center;
     justify-content: space-between;
